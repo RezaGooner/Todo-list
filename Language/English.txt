@@ -1,0 +1,30 @@
+Success
+All items deleted!
+The delete operation was successful!
+reminder
+New reminder added!
+All selected items saved!
+Loading items
+Items successfully loaded from file.
+Error loading
+Error loading items from file.
+Edit successfully!
+Edit
+Text:
+Date:
+Hour:
+confirm
+Cancel
+to-do list
+write something...
+add
+Delete
+Save
+Load
+remove all
+Set time
+Change Language
+Exit
+Delete all registered and saved items
+Set the current date & time for the reminder
+Select Language:
